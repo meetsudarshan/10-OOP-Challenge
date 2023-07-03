@@ -36,23 +36,23 @@ const runLogoGenerator = async () => {
 const userQuestions = [
   {
     type: 'input',
-    message: 'Please enter a 3 character company name/abbreviation.',
+    message: 'Please enter 3 characters.',
     name: 'text'
   },
   {
     type: 'input',
-    message: 'Please enter a color or color code for the company name.',
+    message: 'Please enter a color for your characters.',
     name: 'color'
   },
   {
     type: 'list',
-    message: 'What shape would you like to use for your logo?',
+    message: 'Select a shape for your logo?',
     name: 'shape',
     choices: ['triangle', 'circle', 'square']
   },
   {
     type: 'input',
-    message: 'Please enter a color or color code for the background of the shape.',
+    message: 'Please enter a color for the background of your logo.',
     name: 'background'
   }
 ];

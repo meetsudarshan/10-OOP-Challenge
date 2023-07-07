@@ -8,7 +8,8 @@ My task is to build a Node.js command-line application that takes in user input 
 
 Because this application won’t be deployed, I’ll need to provide a link to a walkthrough video that demonstrates its functionality and passes all of the tests. I’ll need to submit a link to the video **and** add it to the README of your project.
 
-[![](./image/app-demo.png)]( https://drive.google.com/file/d/19gBBBEWwG14xIH_LImQz0I0H00_G48qD/view)
+#visual
+[![](link to video)]( https://drive.google.com/file/d/19gBBBEWwG14xIH_LImQz0I0H00_G48qD/view)
 
 > **Note**: There is no starter code for this assignment.
 ### User Story
